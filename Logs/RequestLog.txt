@@ -1,0 +1,325 @@
+[7/12/2023 2:32:44 PM]: New request to http://localhost:5000/
+[7/12/2023 2:32:44 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 4:57:38 PM]: New request to http://localhost:5100/
+[7/12/2023 4:57:38 PM]: New request to http://localhost:5100/Home/Error
+[7/12/2023 4:57:38 PM]: New request to http://localhost:5100/MVCStartApp.styles.css
+[7/12/2023 4:57:55 PM]: New request to http://localhost:5100/
+[7/12/2023 4:57:55 PM]: New request to http://localhost:5100/Home/Error
+[7/12/2023 4:57:55 PM]: New request to http://localhost:5100/MVCStartApp.styles.css
+[7/12/2023 4:59:48 PM]: New request to http://localhost:5100/
+[7/12/2023 4:59:48 PM]: New request to http://localhost:5100/Home/Error
+[7/12/2023 5:02:21 PM]: New request to http://localhost:5100/
+[7/12/2023 5:02:21 PM]: New request to http://localhost:5100/Home/Error
+[7/12/2023 5:02:22 PM]: New request to http://localhost:5100/MVCStartApp.styles.css
+[7/12/2023 5:02:58 PM]: New request to http://localhost:5000/
+[7/12/2023 5:02:58 PM]: New request to http://localhost:5000/Home/Error
+[7/12/2023 5:02:58 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:03:02 PM]: New request to http://localhost:5000/
+[7/12/2023 5:03:02 PM]: New request to http://localhost:5000/Home/Error
+[7/12/2023 5:03:02 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:03:05 PM]: New request to http://localhost:5000/Home/Privacy
+[7/12/2023 5:03:05 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:03:07 PM]: New request to http://localhost:5000/
+[7/12/2023 5:03:07 PM]: New request to http://localhost:5000/Home/Error
+[7/12/2023 5:03:07 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:04:16 PM]: New request to http://localhost:5000/
+[7/12/2023 5:04:16 PM]: New request to http://localhost:5000/Home/Error
+[7/12/2023 5:04:16 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:05:18 PM]: New request to http://localhost:5000/
+[7/12/2023 5:05:21 PM]: New request to http://localhost:5000/
+[7/12/2023 5:05:21 PM]: New request to http://localhost:5000/
+[7/12/2023 5:05:37 PM]: New request to http://localhost:5000/
+[7/12/2023 5:05:37 PM]: New request to http://localhost:5000/Home/Error
+[7/12/2023 5:05:37 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:12:22 PM]: New request to http://localhost:5000/
+[7/12/2023 5:20:38 PM]: New request to http://localhost:5000/
+[7/12/2023 5:22:38 PM]: New request to http://localhost:5000/
+[7/12/2023 5:25:45 PM]: New request to http://localhost:5000/
+[7/12/2023 5:26:15 PM]: New request to http://localhost:5000/
+[7/12/2023 5:26:23 PM]: New request to http://localhost:5000/
+[7/12/2023 5:30:04 PM]: New request to http://localhost:5000/
+[7/12/2023 5:33:22 PM]: New request to http://localhost:5000/
+[7/12/2023 5:34:03 PM]: New request to http://localhost:5000/
+[7/12/2023 5:34:03 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 5:34:25 PM]: New request to http://localhost:5000/
+[7/12/2023 5:34:25 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:20:14 PM]: New request to http://localhost:5000/
+[7/12/2023 6:20:15 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:20:32 PM]: New request to http://localhost:5000/Home/Authors
+[7/12/2023 6:20:32 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:21:37 PM]: New request to http://localhost:5000/Home/Authors
+[7/12/2023 6:21:38 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:25:03 PM]: New request to http://localhost:5000/
+[7/12/2023 6:25:04 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:25:06 PM]: New request to http://localhost:5000/Home/Authors
+[7/12/2023 6:25:07 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:25:09 PM]: New request to http://localhost:5000/
+[7/12/2023 6:25:09 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:25:10 PM]: New request to http://localhost:5000/Home/Authors
+[7/12/2023 6:25:11 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:27:40 PM]: New request to http://localhost:5000/Shared
+[7/12/2023 6:43:11 PM]: New request to http://localhost:5000/Home/Authors
+[7/12/2023 6:43:15 PM]: New request to http://localhost:5000/Home
+[7/12/2023 6:43:15 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:43:21 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:43:25 PM]: New request to http://localhost:5000/User
+[7/12/2023 6:43:39 PM]: New request to http://localhost:5000/User
+[7/12/2023 6:43:42 PM]: New request to http://localhost:5000/Users/
+[7/12/2023 6:45:51 PM]: New request to http://localhost:5000/
+[7/12/2023 6:45:51 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:45:55 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:46:44 PM]: New request to http://localhost:5000/
+[7/12/2023 6:46:44 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:46:48 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:46:58 PM]: New request to http://localhost:5000/Home
+[7/12/2023 6:46:58 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:48:43 PM]: New request to http://localhost:5000/
+[7/12/2023 6:48:43 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:48:47 PM]: New request to http://localhost:5000/USers
+[7/12/2023 6:48:51 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:49:11 PM]: New request to http://localhost:5000/USers
+[7/12/2023 6:49:12 PM]: New request to http://localhost:5000/USers
+[7/12/2023 6:49:12 PM]: New request to http://localhost:5000/USers
+[7/12/2023 6:49:13 PM]: New request to http://localhost:5000/USers
+[7/12/2023 6:49:21 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:57:13 PM]: New request to http://localhost:5000/
+[7/12/2023 6:57:13 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:57:23 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:58:10 PM]: New request to http://localhost:5000/
+[7/12/2023 6:58:10 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 6:58:14 PM]: New request to http://localhost:5000/USers
+[7/12/2023 6:58:21 PM]: New request to http://localhost:5000/Users
+[7/12/2023 6:59:01 PM]: New request to http://localhost:5000/Users/
+[7/12/2023 6:59:28 PM]: New request to http://localhost:5001/
+[7/12/2023 6:59:28 PM]: New request to http://localhost:5001/MVCStartApp.styles.css
+[7/12/2023 6:59:37 PM]: New request to http://localhost:5001/Users
+[7/12/2023 7:04:48 PM]: New request to http://localhost:5000/
+[7/12/2023 7:04:48 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:04:54 PM]: New request to http://localhost:5000/Users
+[7/12/2023 7:04:55 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:05:02 PM]: New request to http://localhost:5000/Users/Register
+[7/12/2023 7:05:02 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:05:14 PM]: New request to http://localhost:5000/Users/Register
+[7/12/2023 7:05:14 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:05:21 PM]: New request to http://localhost:5000/Users
+[7/12/2023 7:05:21 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:05:24 PM]: New request to http://localhost:5000/Users
+[7/12/2023 7:05:24 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:13:55 PM]: New request to http://localhost:5000/
+[7/12/2023 7:13:55 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:14:04 PM]: New request to http://localhost:5000/Users/Register
+[7/12/2023 7:14:05 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:14:09 PM]: New request to http://localhost:5000/Users/Register
+[7/12/2023 7:14:09 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/12/2023 7:14:39 PM]: New request to http://localhost:5000/Users
+[7/12/2023 7:14:39 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:41:28 PM]: New request to http://localhost:5000/
+[7/13/2023 3:41:28 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:41:29 PM]: New request to http://localhost:5000/Users
+[7/13/2023 3:41:36 PM]: New request to http://localhost:5000/Users
+[7/13/2023 3:42:22 PM]: New request to http://localhost:5000/Users
+[7/13/2023 3:42:22 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:42:24 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 3:42:24 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:42:34 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 3:42:34 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:42:35 PM]: New request to http://localhost:5000/Users
+[7/13/2023 3:42:35 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:42:36 PM]: New request to http://localhost:5000/Users
+[7/13/2023 3:42:36 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 3:43:26 PM]: New request to http://localhost:5000/Users
+[7/13/2023 3:43:26 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:04:47 PM]: New request to http://localhost:5000/
+[7/13/2023 5:04:47 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:04:48 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:04:49 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:04:50 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:04:50 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:04:54 PM]: New request to http://localhost:5000/Users/AddNewUser
+[7/13/2023 5:10:45 PM]: New request to http://localhost:5000/
+[7/13/2023 5:10:45 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:10:49 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:10:50 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:10:53 PM]: New request to http://localhost:5000/Users/AddNewUser
+[7/13/2023 5:10:53 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:10:56 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:10:56 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:11:01 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:11:01 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:11:08 PM]: New request to http://localhost:5000/Users/AddNewUser
+[7/13/2023 5:11:08 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:11:09 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:11:09 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:11:37 PM]: New request to http://localhost:5000/
+[7/13/2023 5:11:37 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:11:40 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:11:40 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:12:04 PM]: New request to http://localhost:5000/
+[7/13/2023 5:12:04 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:12:10 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:12:11 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:12:14 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:12:14 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:12:15 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:12:15 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:30 PM]: New request to http://localhost:5000/
+[7/13/2023 5:18:30 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:31 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:18:32 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:35 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:18:35 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:37 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:18:37 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:39 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:18:39 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:40 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:18:40 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:45 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:18:45 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:46 PM]: New request to http://localhost:5000/Users
+[7/13/2023 5:18:46 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:18:49 PM]: New request to http://localhost:5000/USers/Register
+[7/13/2023 5:18:49 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:46:14 PM]: New request to http://localhost:5000/
+[7/13/2023 5:46:14 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:46:16 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:46:16 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:46:18 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 5:46:18 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:46:19 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:46:19 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:50:41 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:50:41 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 5:50:52 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:51:05 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:51:06 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:51:07 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:51:08 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:51:09 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 5:51:11 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:15:58 PM]: New request to http://localhost:5000/
+[7/13/2023 7:15:58 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:16:00 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:16:00 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:16:09 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:16:50 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:16:50 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:16:53 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:39:02 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:39:02 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:39:13 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:39:13 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:39:55 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:39:55 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:40:59 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:40:59 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:43:24 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:43:24 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:43:49 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:43:49 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:44:04 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:44:04 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:44:12 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:44:12 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:44:44 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:44:44 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:44:44 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:44:44 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:44:52 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:44:52 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:45:16 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:45:16 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:45:26 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:45:26 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:45:54 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:45:54 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:46:22 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:46:22 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:46:40 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:46:40 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:46:58 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:46:58 PM]: New request to http://localhost:5000/MVCStartApp.styles.css
+[7/13/2023 7:50:13 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:50:13 PM]: New request to http://localhost:5000/Views/Shared/_Layout.cshtml.css
+[7/13/2023 7:50:15 PM]: New request to http://localhost:5000/Views/Shared/_Layout.cshtml.css
+[7/13/2023 7:51:00 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:51:00 PM]: New request to http://localhost:5000/Views/Shared/_Layout.cshtml.css
+[7/13/2023 7:51:08 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:51:27 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:51:32 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:51:53 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:51:59 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:52:01 PM]: New request to http://localhost:5000/Users
+[7/13/2023 7:52:02 PM]: New request to http://localhost:5000/Home/Privacy
+[7/13/2023 7:52:03 PM]: New request to http://localhost:5000/
+[7/13/2023 7:52:04 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:52:05 PM]: New request to http://localhost:5000/
+[7/13/2023 7:52:05 PM]: New request to http://localhost:5000/Home/Privacy
+[7/13/2023 7:52:06 PM]: New request to http://localhost:5000/Users
+[7/13/2023 7:52:07 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:52:07 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:52:10 PM]: New request to http://localhost:5000/
+[7/13/2023 7:52:11 PM]: New request to http://localhost:5000/Home/Privacy
+[7/13/2023 7:52:12 PM]: New request to http://localhost:5000/Users
+[7/13/2023 7:52:12 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:52:13 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:52:18 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:52:22 PM]: New request to http://localhost:5000/
+[7/13/2023 7:52:25 PM]: New request to http://localhost:5000/Home/Privacy
+[7/13/2023 7:52:27 PM]: New request to http://localhost:5000/Users
+[7/13/2023 7:52:37 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:52:40 PM]: New request to http://localhost:5000/Feedback/Add
+[7/13/2023 7:52:43 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:52:50 PM]: New request to http://localhost:5000/Users/Register
+[7/13/2023 7:52:54 PM]: New request to http://localhost:5000/Users
+[7/14/2023 10:46:16 AM]: http://localhost:5000/
+[7/14/2023 10:58:47 AM]: http://localhost:5000/
+[7/14/2023 11:00:09 AM]: http://localhost:5000/
+[7/14/2023 11:02:59 AM]: http://localhost:5000/
+[7/14/2023 11:03:54 AM]: http://localhost:5000/Users
+[7/14/2023 11:03:55 AM]: http://localhost:5000/Users/Register
+[7/14/2023 11:04:00 AM]: http://localhost:5000/Users/Register
+[7/14/2023 11:04:02 AM]: http://localhost:5000/Users
+[7/14/2023 11:04:02 AM]: http://localhost:5000/Users/Register
+[7/14/2023 11:04:07 AM]: http://localhost:5000/Users/Register
+[7/14/2023 11:04:08 AM]: http://localhost:5000/Users
+[7/14/2023 11:04:10 AM]: http://localhost:5000/Feedback/Add
+[7/14/2023 11:04:11 AM]: http://localhost:5000/
+[7/14/2023 11:19:01 AM]: http://localhost:5000/
+[7/14/2023 11:19:09 AM]: http://localhost:5000/Requsts
+[7/14/2023 11:20:32 AM]: http://localhost:5000/
+[7/14/2023 11:20:34 AM]: http://localhost:5000/Requests
+[7/14/2023 11:27:28 AM]: http://localhost:5000/
+[7/14/2023 11:27:29 AM]: http://localhost:5000/logs
+[7/14/2023 11:27:39 AM]: http://localhost:5000/Requests
+[7/14/2023 11:27:54 AM]: http://localhost:5000/Requests
+[7/14/2023 11:28:22 AM]: http://localhost:5000/
+[7/14/2023 11:28:24 AM]: http://localhost:5000/logs
+[7/14/2023 3:41:27 PM]: http://localhost:5000/logs
+[7/14/2023 3:41:36 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:42:07 PM]: http://localhost:5001/
+[7/14/2023 3:42:10 PM]: http://localhost:5001/logs
+[7/14/2023 3:44:41 PM]: http://localhost:5001/logs
+[7/14/2023 3:46:08 PM]: http://localhost:5001/logs
+[7/14/2023 3:46:35 PM]: http://localhost:5001/logs
+[7/14/2023 3:46:54 PM]: http://localhost:5001/logs
+[7/14/2023 3:47:00 PM]: http://localhost:5001/
+[7/14/2023 3:47:01 PM]: http://localhost:5001/Home/Privacy
+[7/14/2023 3:47:07 PM]: http://localhost:5001/Users
+[7/14/2023 3:47:12 PM]: http://localhost:5001/Feedback/Add
+[7/14/2023 3:47:13 PM]: http://localhost:5001/logs
+[7/14/2023 3:47:16 PM]: http://localhost:5001/Users/Register
+[7/14/2023 3:47:43 PM]: http://localhost:5001/Users/Register
+[7/14/2023 3:48:08 PM]: http://localhost:5000/
+[7/14/2023 3:48:24 PM]: http://localhost:5000/
+[7/14/2023 3:50:03 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:50:04 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:50:05 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:50:25 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:50:27 PM]: http://localhost:5000/Users/Login
+[7/14/2023 3:50:28 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:50:29 PM]: http://localhost:5000/Users/Register
+[7/14/2023 3:50:31 PM]: http://localhost:5000/logs
+[14.07.2023 16:08:39]: http://localhost:5000/
+[14.07.2023 16:08:42]: http://localhost:5000/logs
+[14.07.2023 16:08:50]: http://localhost:5000/Feedback/Add
