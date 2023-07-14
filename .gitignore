@@ -11,10 +11,6 @@ autom4te.cache/
 tarballs/
 test-results/
 
-# SQL connection
-
-**appsettings.Development.json
-
 # Mac bundle stuff
 *.dmg
 *.app
