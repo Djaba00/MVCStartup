@@ -11,6 +11,10 @@ autom4te.cache/
 tarballs/
 test-results/
 
+# SQL connection
+
+**appsettings.Development.json
+
 # Mac bundle stuff
 *.dmg
 *.app
@@ -403,3 +407,4 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+appsettings.Development.json
